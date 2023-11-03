@@ -42,4 +42,6 @@
     },
     "homeassistant_api": true,
     "webui": "[PROTO:ssl]://[HOST]:[PORT:12101]/"
+    "ingress": true
+    "ingress_port": "12101"
 }
